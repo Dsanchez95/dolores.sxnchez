@@ -14,6 +14,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+mkdir scripts 
+vim blastn.pbs
+
 - Bulleted
 - List
 
