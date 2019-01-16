@@ -1,5 +1,7 @@
-## Hello
-You can use the [editor on GitHub](https://github.com/Dsanchez95/dolores.sxnchez/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Hi All,
+
+My name is Dolores Sanchez-Gonzalez. I'm currently a senior at the University of Illinois at Chicago 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
