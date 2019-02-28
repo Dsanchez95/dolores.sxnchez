@@ -1,9 +1,8 @@
 ## Hi All,
 
-My name is Dolores Sanchez-Gonzalez. I'm currently a senior at the University of Illinois at Chicago 
+My name is Dolores Sanchez-Gonzalez. I'm currently a senior at the University of Illinois at Chicago!
+I have created this github page mainly to keep track of R and Bash Scripts.. Hopefully other people will find them helpful as well.
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
